@@ -22,6 +22,10 @@ div li + li {
   margin-top: 15px;
 }
 
+div span {
+  margin-left: 15px;
+}
+
 button {
   background: #7159c1;
   color: #fff;
